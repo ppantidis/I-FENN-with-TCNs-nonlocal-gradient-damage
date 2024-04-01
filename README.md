@@ -1,4 +1,5 @@
 This repository contains the code and data used in this article: 
+
 Panos Pantidis, Habiba Eldababy, Diab Abueidda, Mostafa E. Mobasher (2024), "I-FENN with Temporal Convolutional Networks: expediting the load-history analysis of non-local gradient damage propagation"
 https://arxiv.org/abs/2402.05460
 
